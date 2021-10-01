@@ -1,13 +1,14 @@
-# TRABAJO PRÁCTICO 5 - POTRERO DIGITAL
+# TRABAJO PRÁCTICO 6 - POTRERO DIGITAL
 
-A la receta del trabajo práctico 4 aplicarle un “Diseño responsivo” para su correcta visualización en los distintos dispositivos (computadora, celular, tablet, etc.)
+A la receta del trabajo práctico 5 aplicarle un “Diseño responsivo” utilizando FLEXBOX para el posicionamiento de los elementos y MEDIA QUERIES para su correcta visualización en los distintos dispositivos (computadora, celular, tablet, etc.)
 
 ## No pueden faltar los siguientes items:
 
-1. Utilizar medidas relativas vh, vw , % para imágenes y contenedores.
-2. Utilizar medidas relativas em y rem para el texto.
-3. Utilizar diferente tipo de tipografías (fuentes)
-4. Por lo menos un tipo de fuente debe estar en la carpeta del proyecto (@font-face)
-5. Por lo menos un tipo de fuente debe linkearse con la galería de Google Fonts
-6. Actualizar el repositorio de Github con los cambios realizados
-7. Entregar el link de la github page en la Plataforma Potrero Digital.
+1. Utilizar FLEXBOX para el posicionamiento de cajas y elementos.
+2. Con MEDIA QUERIES Implementar 3 puntos de quiebre (breakpoints) donde el diseño se modifique al cambiar de dispositivo (fondo, tamaño, etc).
+3. Insertar un elemento que aparezca cuando se visualice en un Celular.
+4. Insertar un elemento que desaparezca cuando se visualice en la Computadora.
+5. Agregar las etiquetas META con toda la información necesaria para un buen posicionamiento en los buscadores (SEO).
+6. Asegurarse que el proyecto cumpla con todas las buenas prácticas.
+7. Actualizar el repositorio de Github con los cambios realizados.
+8. Entregar el link de la Github page en la Plataforma de Potrero Digital.
